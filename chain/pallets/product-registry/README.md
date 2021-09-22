@@ -51,7 +51,7 @@ To add this pallet to your runtime, simply include the following to your runtime
 [dependencies.product-registry]
 default_features = false
 package = 'pallet-product-registry'
-version = '2.0.0'
+version = '2.0.1'
 ```
 
 and update your runtime's `std` feature to include this pallet:

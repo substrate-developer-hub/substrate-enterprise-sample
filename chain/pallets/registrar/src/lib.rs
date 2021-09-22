@@ -151,7 +151,7 @@ impl<T: Trait> Module<T> {
 }
 
 /// Ensure that a consortium member is invoking a dispatch.
-// https://substrate.dev/rustdocs/v2.0.0-rc6/frame_support/traits/trait.EnsureOrigin.html
+// https://substrate.dev/rustdocs/v2.0.1/frame_support/traits/trait.EnsureOrigin.html
 pub struct EnsureOrg<T>(sp_std::marker::PhantomData<T>);
 impl<T: Trait> EnsureOrigin<T::Origin> for EnsureOrg<T> {
 	type Success = T::AccountId;

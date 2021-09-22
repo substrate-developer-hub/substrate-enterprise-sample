@@ -17,7 +17,7 @@ The [runtime](runtime) for this blockchain includes the following application-sp
 ## Build & Launch
 
 Follow the [installation instructions](https://substrate.dev/docs/en/knowledgebase/getting-started/)
-for getting started with Rust and Substrate. This project is built on Substrate v2.0.0, which means
+for getting started with Rust and Substrate. This project is built on Substrate v2.0.1, which means
 that it uses the
 [Rust `nightly-2020-10-05` toolchain](https://substrate.dev/docs/en/knowledgebase/getting-started/#rust-nightly-toolchain)
 for Wasm compilation. Ensure that you run the following commands as part of the installation
