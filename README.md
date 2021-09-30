@@ -1,5 +1,14 @@
 # Substrate & FRAME Supply Chain Sample
 
+## *Status: Archived*
+
+> This repository is not actively maintained, and presently uses Substrate v2.0.0 and
+> thus is not actively supported.. v3+ introduces major breaking changes
+> that will require a major refactor of this project.
+>
+> Please use this project as an example to learn from, not to use as a basis for starting a
+> new Substrate project intended to go to production.
+
 This sample project demonstrates how the [Substrate](https://www.substrate.io/) framework for
 building blockchains and its standard
 [FRAME](https://substrate.dev/docs/en/knowledgebase/runtime/frame) library for runtime development
